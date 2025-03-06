@@ -1,8 +1,8 @@
-## Shani Henriques
+## 👋 Hi! I'm Shani
 
 ### Python Engineer | Tech For Good Enthusiast
 
-👋 Hello there! I'm Shani — an anthropology graduate who fell in love with code and found my calling in software engineering. 
+An anthropology graduate who fell in love with code and found my calling in software engineering
 
 ### 💻 Technical Skills
 
