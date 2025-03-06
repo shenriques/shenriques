@@ -1,4 +1,15 @@
-## Hi there 👋
+## Shani Henriques: Python Engineer | Tech For Good Enthusiast
+
+👋 Hello there! I'm Shani — an anthropology graduate who fell in love with code and found my calling in software engineering. 
+
+### 💻 Technical Skills
+
+Languages: Python, JavaScript, SQL
+Frameworks: Django, FastAPI
+Databases: PostgreSQL
+Cloud: Azure, Serverless Functions
+Tools: Git, CI/CD, Docker
+Visualisation: Data Dashboards, Rhino/Grasshopper
 
 <!--
 **shenriques/shenriques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
